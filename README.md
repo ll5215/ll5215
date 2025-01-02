@@ -4,9 +4,17 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ll5215&show_icons=true&theme=radical)
 
-<span>
-    <img src="https://img.shields.io/badge/React-222222?style=plastic&logo=React&logoColor=#61DAFB"/>
-</span>
+<!-- 스킬 START -->
+<h2>Languages & Frameworks</h2>
+<img src="https://skillicons.dev/icons?i=java,spring,,js,nodejs,react,,ts,nestjs,nextjs" />
+<h2>Databases</h2>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,mongodb" />
+<h2>Infra</h2>
+<img src="https://skillicons.dev/icons?i=aws,nginx,docker" />
+<h2>IDE & Tools</h2>
+<img src="https://skillicons.dev/icons?i=idea,vscode,eclipse,,git,figma,postman" />
+  <br/><br/>
+<!-- 스킬 START -->
 <!--
 **ll5215/ll5215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
