@@ -5,9 +5,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ll5215&show_icons=true&theme=radical)
 
 <span>
-  <a href="https://www.instagram.com/6unoyunr/">
-    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
-  </a>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white"/>
 </span>
 <!--
 **ll5215/ll5215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
