@@ -6,9 +6,9 @@
 
 <!-- 스킬 START -->
 <h2>Languages & Frameworks</h2>
-<img src="https://skillicons.dev/icons?i=react,,ts,nextjs" />
+<img src="https://skillicons.dev/icons?i=react,ts,nextjs" />
 <h2>IDE & Tools</h2>
-<img src="https://skillicons.dev/icons?i=idea,vscode,,git,figma" />
+<img src="https://skillicons.dev/icons?i=vscode,git,figma" />
   <br/><br/>
 <!-- 스킬 START -->
 <!--
